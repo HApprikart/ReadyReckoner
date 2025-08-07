@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ReadyReckoner",
-            url: "https://hyundai-tab-ssc.s3.ap-south-1.amazonaws.com/Kiosk+Build/ReadyReckonerIOS/040825/ReckonerKit.zip",
-            checksum: "6ea0123014a69317a15773278978bc4b71c5aeb6a4d6b7f461506534c202e6db"
+            url: "https://hyundai-tab-ssc.s3.ap-south-1.amazonaws.com/Kiosk+Build/ReadyReckonerIOS/070825/ReckonerKit.zip",
+            checksum: "650a2583129754971fb86b3c77c7609d1eb6312aab541d15084650ca558297bc"
         )
     ]
 )
